@@ -1,5 +1,6 @@
-👋 Howdy! I’m Barry 👋
-🌱 I’m a product manager currently working on the Azure DevOps team at Microsoft
+👋 Howdy!👋
+
+🌱 I’m Barry, a product manager currently working on the Azure DevOps team at Microsoft
 
 <!---
 bawolfso/bawolfso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
